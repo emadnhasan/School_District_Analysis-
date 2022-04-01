@@ -95,10 +95,12 @@ Revised
 
 
 # Summary
-* Overall the impact of removing the 9th grade scores from Thomas High School did not impact the data greatly. When brokem down into various metrics, small changes can be seen but none represent a substantial shift in data
-** District: change of less than 0.05%
-** School: change of less than 0.5%
-** Ranking: Ranking remained the same
-** By Grade: Data was removed
-** School Spending: change of less than 0.1% in the group containing Thomas High School
-** School Type: change of less than 0.1% in the school type containing Thomas High School
+Overall the impact of removing the 9th grade scores from Thomas High School did not impact the data greatly. When brokem down into various metrics, small changes can be seen but none represent a substantial shift in data
+* District: change of less than 0.05%
+* School: change of less than 0.5%
+* Ranking: Ranking remained the same
+* By Grade: Data was removed
+* School Spending: change of less than 0.1% in the group containing Thomas High School
+* School Type: change of less than 0.1% in the school type containing Thomas High School
+
+Also to be taken into account is the size of the dataset that was removed. There are 461 9th grade students at Thomas High School. This makes up 28% of the school's students but only 1.2% of the entire district student body. As a result, the removal of this data set had almost no impact on the analysis. 
